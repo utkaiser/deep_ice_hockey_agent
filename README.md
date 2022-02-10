@@ -1,6 +1,6 @@
 # Deep Ice Hockey Agent
 
-This repository contains the writeup about the final project done for The University of Texas at Austin's CS 342 Neural Network
+This repository contains the latex code of the writeup about the final project done for The University of Texas at Austin's CS 342 Neural Network
 course in Fall 2021. The Python code is omitted to preserve the integrity of the assignment.
 In this project, we built an AI agent that competes in a 2v2 ice hockey game. 
 
