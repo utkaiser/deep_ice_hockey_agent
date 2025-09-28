@@ -4,3 +4,6 @@ readme
 notes
 .idea
 .DS_Store
+*.pyc
+*.pt
+*pkl
